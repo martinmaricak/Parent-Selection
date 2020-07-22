@@ -1,0 +1,14 @@
+{
+  "name": "Parent-Selection",
+  "version": "1.0.0",
+  "description": "Figma plugin mimicking Select Parents function.",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Martin Maricak",
+  "license": "MIT Licence",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.15.0"
+  }
+}
