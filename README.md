@@ -1,4 +1,4 @@
-# This Figma plugin was built to use a different keyboard shortcut for a Select Parents feature.
+# This Figma plugin was built to use a different keyboard shortcut for a Select Parents feature on macOS.
 
 Figma has this useful feature which selects parent groups/frames of your currently selected elements. It is available under `⇧ + ↵ Enter`. I find the Sketch implementation more convenient though: Sketch lets you select parents while pressing Esc instead of cancelling a selection right away.
 
